@@ -15,7 +15,7 @@ C# • JavaScript • TypeScript • Python • SQL • PHP Laravel • Ruby <br
 <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img title="C++" alt="C++" width="40px" src="https://devicons.io/devicons/icons/c-plusplus.svg" />
 <img title="Ruby" alt="Ruby" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" />
 
 
