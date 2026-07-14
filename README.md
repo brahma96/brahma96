@@ -32,8 +32,7 @@ React.js • Next.js • Angular • HTML5 • CSS3 • Tailwind CSS <br>
 
 ASP.NET MVC • Entity Framework • RESTful APIs • MVVM • .NET Framework • Node.js • Express.js<br>
 <img title="ASP.NET" alt="ASP.NET" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />
-<img title="EF Core" alt="EF Core" width="40px" src="" />
-<img title=".NET" alt=".NET" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />
+<img title="EF Core" alt="EF Core" width="40px" src="https://devicons.io/devicons/icons/dotnet.svg" />
 <img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 <img title="Express.js" alt="Express.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
 
